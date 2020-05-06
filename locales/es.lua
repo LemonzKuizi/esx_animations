@@ -80,7 +80,7 @@ Locales['es'] = {
   ['take_a_selfie'] = 'sacarse una selfie',
   ['listen_to_wall_door'] = 'escuchar tras la puerta',
 
-  ['attitudem'] = 'Estilos de caminar'
+  ['attitudem'] = 'Estilos de caminar',
   ['normal_m'] = 'masculino normal',
   ['normal_f'] = 'femenino normal',
   ['depressed_male'] = 'masculino deprimido',
